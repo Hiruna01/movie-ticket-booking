@@ -1,5 +1,6 @@
 package com.PGN15.movie_booking_app;
 
+//test comments
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
